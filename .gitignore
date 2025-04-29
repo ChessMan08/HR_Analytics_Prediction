@@ -1,0 +1,32 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.xlsx
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter output
+*.log
+*.output
+
+# OS-specific
+.DS_Store
+Thumbs.db
