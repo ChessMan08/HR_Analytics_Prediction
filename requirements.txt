@@ -1,0 +1,6 @@
+numpy               # Numerical computations
+pandas              # Data manipulation and analysis
+scikit-learn        # Machine learning models and evaluation metrics
+matplotlib          # Data visualization
+seaborn             # Statistical data visualization
+plotly              # Data visualization
